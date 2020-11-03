@@ -1,3 +1,5 @@
+Tinkering with Coingecko API to grab and display coin measurables to user. Work in progress. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
